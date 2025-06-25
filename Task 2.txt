@@ -1,0 +1,83 @@
+Task 2: Analyze a Phishing Email Sample
+
+Objective:
+Identify phishing characteristics in a suspicious email sample and summarize them in a report format.
+
+Tools Used:
+- Email sample (screenshot)
+- Basic email analysis techniques (domain check, tone, hyperlink inspection)
+- Manual analysis (header tools not used due to image-based sample)
+
+Sample Email Analyzed:
+
+1. Subject: Response Required  
+2. Sender Email: service.paypai@outlook.com  
+3. Date of Email: Not specified (visible in screenshot)  
+4. Brand Targeted: PayPal  
+5. Screenshot Used:  
+
+
+
+Indicators of Phishing Identified
+
+1. Spoofed Email Address
+- The sender’s email is "service.paypai@outlook.com" — looks like “PayPal” but is clearly fake.
+- Uses the domain "@outlook.com", which PayPal does not use for service communication.
+- This is a classic spoofing technique to trick users at first glance.
+
+2. Urgent or Threatening Language
+- The email pressures the recipient with statements like:
+  - "Your account is still temporarily limited..."
+  - "Check that no one has logged in without your permission..."
+- Such fear-based language is used to force quick reactions without thinking.
+
+3. Deceptive Hyperlinks
+- Texts like “log in” and “Resolution Center” are hyperlinked.
+- Likely point to "fake PayPal login pages" that steal credentials.
+
+
+4. Lack of Personalization
+- Uses a generic greeting: "Dear"
+- Legitimate companies (especially PayPal) usually address customers by name.
+- Indicates mass phishing campaign.
+
+5. Suspicious Grammar and Tone
+- Informal and inconsistent wording such as:  
+  - “We emailed you a little while ago...”
+  - Lacks professional tone typical of verified PayPal emails.
+- Several sentences sound "unrefined and robotic".
+
+6. Misuse of Branding
+- The email mimics PayPal’s logo and styling.
+- However, layout and structure are overly simple and lack standard PayPal security elements.
+
+
+
+Summary of Findings:
+
+Indicator - Observation 
+
+1. Spoofed Email - Fake domain ('paypai@outlook.com') .
+2. Urgency & Fear - Claims account limitation & unauthorized login. 
+3. Link Manipulation - Hyperlinks masked behind login & resolution text. 
+4. No Personalization - Uses “Dear” instead of recipient's name.
+5. Grammar Issues - Casual language and unprofessional tone.
+6. Branding Tricks - Uses PayPal logo but lacks official structure.
+
+
+
+Outcome:
+Through this analysis, I’ve developed awareness of phishing tactics including:
+- Spotting fake sender domains
+- Identifying urgency or emotional manipulation
+- Verifying hyperlink legitimacy
+- Recognizing mass mail indicators and branding tricks
+
+This task helped reinforce "email threat analysis skills" and critical thinking about social engineering tactics.
+
+
+
+Learnings Applied:
+- Phishing email dissection
+- Awareness of email spoofing and fake domain tactics
+- Recognizing psychological manipulation in scam attempts
